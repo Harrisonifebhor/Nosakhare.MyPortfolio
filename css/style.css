@@ -256,7 +256,7 @@ h3.pro  {
     border-bottom: 10px solid var(--skin-color);
     border-right: 10px solid var(--skin-color);
     right: 45px;
-    bottom: -40px;
+    bottom: 50px;
    
 }
 
@@ -272,11 +272,10 @@ h3.pro  {
    
 }
 .home .home-img img {
-    height: 300px;
-    width: 210px;
+    height: 276px;
+    width: 235px;
     margin: auto;
     border-radius: 10px;
-
 }
 /* Home section Ends*/
 
