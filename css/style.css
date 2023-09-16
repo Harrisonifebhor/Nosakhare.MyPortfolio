@@ -14,10 +14,10 @@
 
 :root {
     --bg-black-900: #e2e2ec;
-    --bg-black-100: #ead5f5;
-    --bg-black-50: #959097;
-    --text-black-900: #272733;
-    --text-black-700: #292749;
+    --bg-black-100: #f2ecf5;
+    --bg-black-50: #dbd1df;
+    --text-black-900: #23222b;
+    --text-black-700: #504f66;
 }
 
 body.dark {
@@ -256,7 +256,7 @@ h3.pro  {
     border-bottom: 10px solid var(--skin-color);
     border-right: 10px solid var(--skin-color);
     right: 45px;
-    bottom: 50px;
+    bottom: 20px;
    
 }
 
