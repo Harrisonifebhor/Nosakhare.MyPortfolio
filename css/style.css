@@ -126,11 +126,13 @@ ul {
     font-weight: 700;
     padding: 15px 20px;
     font-size: 30px;
+    right: 5.5px;
     position: relative;
 }
 
 .at-side .logo a span {
     font-family: Oleo Script Swash Caps;
+    color: var(--skin-color)
 }
 
 .at-side .logo a::before {
@@ -140,8 +142,8 @@ ul {
     height: 20px;
     border-bottom: 5px solid var(--skin-color);
     border-left: 5px solid var(--skin-color);
-    bottom: 0;
-    left: 2px;
+    bottom: 40px;
+    left: 10px;
 }
 
 .at-side .logo a::after {
@@ -151,8 +153,8 @@ ul {
     height: 20px;
     border-top: 5px solid var(--skin-color);
     border-right: 5px solid var(--skin-color);
-    top: 0;
-    right: 2px;
+    top: -6px;
+    right: -249px;
 }
 
 
