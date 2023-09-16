@@ -13,11 +13,11 @@
 }
 
 :root {
-    --bg-black-900: #e2e2ec;
-    --bg-black-100: #f2ecf5;
-    --bg-black-50: #dbd1df;
-    --text-black-900: #23222b;
-    --text-black-700: #504f66;
+    --bg-black-900: #FBFBEF;
+    --bg-black-100: #FBEFF2;
+    --bg-black-50: #FBEFEF;
+    --text-black-900: #0A0A2A;
+    --text-black-700: #0A1B2A;
 }
 
 body.dark {
