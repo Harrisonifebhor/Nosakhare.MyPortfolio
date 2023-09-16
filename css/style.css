@@ -141,7 +141,7 @@ ul {
     border-bottom: 5px solid var(--skin-color);
     border-left: 5px solid var(--skin-color);
     bottom: 0;
-    left: =0;
+    left: 2px;
 }
 
 .at-side .logo a::after {
@@ -152,7 +152,7 @@ ul {
     border-top: 5px solid var(--skin-color);
     border-right: 5px solid var(--skin-color);
     top: 0;
-    right: 0;
+    right: 2px;
 }
 
 
